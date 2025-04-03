@@ -958,7 +958,7 @@ blockquote {
 }
 /* Custom Font Scaling */
 body {
-    font-size: 18px !important; /* Increase as needed */
+    font-size: 16px !important; /* Increase as needed */
 }
 
 .display-1,
@@ -966,7 +966,7 @@ body {
 .display-4,
 .display-5,
 .display-7 {
-    font-size: 120% !important; /* Adjust percentage as needed */
+    font-size: 100% !important; /* Adjust percentage as needed */
 }
 
 /* You can individually target specific classes as needed */
